@@ -13,7 +13,7 @@ Welcome to this project combining Java web app development and CI/CD tools
 <br>
 
 ## Introduction
-This project included the creation and deployment of a Java-based web app using AWS, with a focus on the CI/CD tools. The deveoplment pipeline that has been built around the Java web app within this repository is invisible to the end-user, but makes a big impact through the automation of the software release processes.
+This project includes the creation and deployment of a Java-based web app using AWS, with a focus on the CI/CD tools. The deveoplment pipeline that has been built around the Java web app within this repository is invisible to the end-user, but makes a big impact through the automation of the software release processes.
 
 I have an interest in DevSecOps and cloud security which acted as the spark for the venture into this project. As a result, I was able to learn more about CI/CD pipelines, in addition to gaining hands on experience in automating the flow from developing code to deployomg web apps.
 
